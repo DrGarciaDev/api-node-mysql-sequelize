@@ -1,0 +1,1 @@
+npm i express dotenv cors sequelize mysql2 --save
